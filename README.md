@@ -1,8 +1,20 @@
 # notes_snow
 
-A new Flutter project.
+A simple note taking application .
 
-## Getting Started
+## Packages used
+ flutter_native_timezone
+  flutter_quill
+  gap
+  hive
+  hive_flutter
+  intl
+  path
+  provider
+  cupertino_icons
+  date_picker_timeline
+  flutter_launcher_icons
+  
 
 This project is a starting point for a Flutter application.
 
